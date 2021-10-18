@@ -1,0 +1,15 @@
+{
+  "name": "nlw-heat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Victor de Souza Oliveira <tygasouzaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.4"
+  }
+}
